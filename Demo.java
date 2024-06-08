@@ -1,6 +1,6 @@
 class Demo{
     pubilc static void main{
         String name = "Dhanraj";
-        String age = "25";
+        String age = "23";
     }
 }
